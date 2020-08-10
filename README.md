@@ -2,6 +2,7 @@
 This Documentation describes the installation and configuration steps of AccionWeather App.
 
 2. Requirements
+
 Please ensure that your server meets the following minimum requirements:
 Software	Modules
 PHP 7, or higher	MySQL, cURL, OpenSSL, mbstring
